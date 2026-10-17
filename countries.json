@@ -1,0 +1,370 @@
+[
+  {
+    "Country": "Japan",
+    "Emoji": "🇯🇵"
+  },
+  {
+    "Country": "Canada",
+    "Emoji": "🇨🇦"
+  },
+  {
+    "Country": "France",
+    "Emoji": "🇫🇷"
+  },
+  {
+    "Country": "Italy",
+    "Emoji": "🇮🇹"
+  },
+  {
+    "Country": "Spain",
+    "Emoji": "🇪🇸"
+  },
+  {
+    "Country": "Turkey",
+    "Emoji": "🇹🇷"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Emoji": "🇦🇿"
+  },
+  {
+    "Country": "China",
+    "Emoji": "🇨🇳"
+  },
+  {
+    "Country": "India",
+    "Emoji": "🇮🇳"
+  },
+  {
+    "Country": "Russia",
+    "Emoji": "🇷🇺"
+  },
+  {
+    "Country": "Brazil",
+    "Emoji": "🇧🇷"
+  },
+  {
+    "Country": "Argentina",
+    "Emoji": "🇦🇷"
+  },
+  {
+    "Country": "Mexico",
+    "Emoji": "🇲🇽"
+  },
+  {
+    "Country": "Australia",
+    "Emoji": "🇦🇺"
+  },
+  {
+    "Country": "Iran",
+    "Emoji": "🇮🇷"
+  },
+  {
+    "Country": "Qatar",
+    "Emoji": "🇶🇦"
+  },
+  {
+    "Country": "Iraq",
+    "Emoji": "🇮🇶"
+  },
+  {
+    "Country": "Pakistan",
+    "Emoji": "🇵🇰"
+  },
+  {
+    "Country": "Afghanistan",
+    "Emoji": "🇦🇫"
+  },
+  {
+    "Country": "Greece",
+    "Emoji": "🇬🇷"
+  },
+  {
+    "Country": "Netherlands",
+    "Emoji": "🇳🇱"
+  },
+  {
+    "Country": "Switzerland",
+    "Emoji": "🇨🇭"
+  },
+  {
+    "Country": "Sweden",
+    "Emoji": "🇸🇪"
+  },
+  {
+    "Country": "England",
+    "Emoji": "🇬🇧"
+  },
+  {
+    "Country": "United States",
+    "Emoji": "🇺🇸"
+  },
+  {
+    "Country": "Poland",
+    "Emoji": "🇵🇱"
+  },
+  {
+    "Country": "Belgium",
+    "Emoji": "🇧🇪"
+  },
+  {
+    "Country": "Norway",
+    "Emoji": "🇳🇴"
+  },
+  {
+    "Country": "Denmark",
+    "Emoji": "🇩🇰"
+  },
+  {
+    "Country": "Portugal",
+    "Emoji": "🇵🇹"
+  },
+  {
+    "Country": "Ukraine",
+    "Emoji": "🇺🇦"
+  },
+  {
+    "Country": "Egypt",
+    "Emoji": "🇪🇬"
+  },
+  {
+    "Country": "Nigeria",
+    "Emoji": "🇳🇬"
+  },
+  {
+    "Country": "Morocco",
+    "Emoji": "🇲🇦"
+  },
+  {
+    "Country": "Thailand",
+    "Emoji": "🇹🇭"
+  },
+  {
+    "Country": "Vietnam",
+    "Emoji": "🇻🇳"
+  },
+  {
+    "Country": "Indonesia",
+    "Emoji": "🇮🇩"
+  },
+  {
+    "Country": "Malaysia",
+    "Emoji": "🇲🇾"
+  },
+  {
+    "Country": "Singapore",
+    "Emoji": "🇸🇬"
+  },
+  {
+    "Country": "Philippines",
+    "Emoji": "🇵🇭"
+  },
+  {
+    "Country": "Chile",
+    "Emoji": "🇨🇱"
+  },
+  {
+    "Country": "Colombia",
+    "Emoji": "🇨🇴"
+  },
+  {
+    "Country": "Kenya",
+    "Emoji": "🇰🇪"
+  },
+  {
+    "Country": "Austria",
+    "Emoji": "🇦🇹"
+  },
+  {
+    "Country": "Ireland",
+    "Emoji": "🇮🇪"
+  },
+  {
+    "Country": "Czechia",
+    "Emoji": "🇨🇿"
+  },
+  {
+    "Country": "Romania",
+    "Emoji": "🇷🇴"
+  },
+  {
+    "Country": "Hungary",
+    "Emoji": "🇭🇺"
+  },
+  {
+    "Country": "Bulgaria",
+    "Emoji": "🇧🇬"
+  },
+  {
+    "Country": "Croatia",
+    "Emoji": "🇭🇷"
+  },
+  {
+    "Country": "Serbia",
+    "Emoji": "🇷🇸"
+  },
+  {
+    "Country": "Slovenia",
+    "Emoji": "🇸🇮"
+  },
+  {
+    "Country": "Lithuania",
+    "Emoji": "🇱🇹"
+  },
+  {
+    "Country": "Latvia",
+    "Emoji": "🇱🇻"
+  },
+  {
+    "Country": "Estonia",
+    "Emoji": "🇪🇪"
+  },
+  {
+    "Country": "Iceland",
+    "Emoji": "🇮🇸"
+  },
+  {
+    "Country": "Luxembourg",
+    "Emoji": "🇱🇺"
+  },
+  {
+    "Country": "Malta",
+    "Emoji": "🇲🇹"
+  },
+  {
+    "Country": "Cyprus",
+    "Emoji": "🇨🇾"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Emoji": "🇰🇿"
+  },
+  {
+    "Country": "Turkmenistan",
+    "Emoji": "🇹🇲"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Emoji": "🇰🇬"
+  },
+  {
+    "Country": "Bangladesh",
+    "Emoji": "🇧🇩"
+  },
+  {
+    "Country": "Nepal",
+    "Emoji": "🇳🇵"
+  },
+  {
+    "Country": "Myanmar",
+    "Emoji": "🇲🇲"
+  },
+  {
+    "Country": "Cambodia",
+    "Emoji": "🇰🇭"
+  },
+  {
+    "Country": "Laos",
+    "Emoji": "🇱🇦"
+  },
+  {
+    "Country": "Mongolia",
+    "Emoji": "🇲🇳"
+  },
+  {
+    "Country": "Peru",
+    "Emoji": "🇵🇪"
+  },
+  {
+    "Country": "Senegal",
+    "Emoji": "🇸🇳"
+  },
+  {
+    "Country": "Ghana",
+    "Emoji": "🇬🇭"
+  },
+  {
+    "Country": "Ivory Coast",
+    "Emoji": "🇨🇮"
+  },
+  {
+    "Country": "Cameroon",
+    "Emoji": "🇨🇲"
+  },
+  {
+    "Country": "Ethiopia",
+    "Emoji": "🇪🇹"
+  },
+  {
+    "Country": "Tanzania",
+    "Emoji": "🇹🇿"
+  },
+  {
+    "Country": "Uganda",
+    "Emoji": "🇺🇬"
+  },
+  {
+    "Country": "Zambia",
+    "Emoji": "🇿🇲"
+  },
+  {
+    "Country": "Botswana",
+    "Emoji": "🇧🇼"
+  },
+  {
+    "Country": "Namibia",
+    "Emoji": "🇳🇦"
+  },
+  {
+    "Country": "Angola",
+    "Emoji": "🇦🇴"
+  },
+  {
+    "Country": "Algeria",
+    "Emoji": "🇩🇿"
+  },
+  {
+    "Country": "Somalia",
+    "Emoji": "🇸🇴"
+  },
+  {
+    "Country": "Yemen",
+    "Emoji": "🇾🇪"
+  },
+  {
+    "Country": "Lebanon",
+    "Emoji": "🇱🇧"
+  },
+  {
+    "Country": "Syria",
+    "Emoji": "🇸🇾"
+  },
+  {
+    "Country": "Tonga",
+    "Emoji": "🇹🇴"
+  },
+  {
+    "Country": "Bhutan",
+    "Emoji": "🇧🇹"
+  },
+  {
+    "Country": "Fiji",
+    "Emoji": "🇫🇯"
+  },
+  {
+    "Country": "Palestine",
+    "Emoji": "🇵🇸"
+  },
+  {
+    "Country": "Monaco",
+    "Emoji": "🇲🇨"
+  },
+  {
+    "Country": "Andorra",
+    "Emoji": "🇦🇩"
+  },
+  {
+    "Country": "Liechtenstein",
+    "Emoji": "🇱🇮"
+  }
+]
